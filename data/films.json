@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "titre": "Inception",
+    "annee_sortie": 2010,
+    "duree_minutes": 148,
+    "note_critique": 8.8,
+    "pays_origine": "USA",
+    "id_realisateur": 1
+  },
+  {
+    "id": 2,
+    "titre": "Interstellar",
+    "annee_sortie": 2014,
+    "duree_minutes": 169,
+    "note_critique": 8.6,
+    "pays_origine": "USA",
+    "id_realisateur": 1
+  }
+]
